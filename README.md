@@ -12,7 +12,6 @@
     </div>
 </div>
 
----
 <div style="text-align: center;">
     <h2>💻 About Me</h2>
 </div>
@@ -32,7 +31,6 @@
     Building software isn’t just about code — it’s about empowering teams, solving challenges together, and leaving a lasting impact.
 </blockquote>
 
----
 <div style="text-align: center;">
     <h2>🛠 TECHNICAL SKILLS </h2>
 
@@ -98,7 +96,6 @@
 
 </div>
 
----
 <div style="text-align: center;">
 <h2> 📫 Contact </h2>
   <a href="https://www.linkedin.com/in/matiesmengo">

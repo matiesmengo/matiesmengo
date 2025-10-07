@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-    <img height="375" src="assets/banner.png" alt="Maties Sureda Banner"/>
+    <img height="200" src="assets/banner.jpg" alt="Maties Sureda Banner"/>
     <h2>📂 Featured Projects </h2>
     <div style="text-align: center;">
       <a href="https://github.com/matiesmengo/event-driven-demo">

@@ -4,10 +4,7 @@
     <h2>📂 Featured Projects </h2>
     <div style="text-align: center;">
       <a href="https://github.com/matiesmengo/event-driven-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiesmengo&repo=event-driven-demo&theme=dracula" />
-      </a>
-      <a href="https://github.com/matiesmengo/spring-security-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiesmengo&repo=spring-security-demo&theme=dracula" />
+        <img src="https://img.shields.io/badge/EXPLORE-event--sourcing--cqrs-blue?style=for-the-badge&logo=github&labelColor=24292e"/>
       </a>
     </div>
 </div>

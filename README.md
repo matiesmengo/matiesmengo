@@ -1,5 +1,5 @@
 
-<img height="200" src="assets/banner.jpg" alt="Maties Sureda Banner"/>
+<img height="200" src="assets/github-header-banner.png" alt="Maties Sureda Banner"/>
 <h2>📂 Featured Projects </h2>
 <p align="center">
   <a href="https://github.com/matiesmengo/event-driven-demo">

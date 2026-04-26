@@ -1,11 +1,15 @@
 
 <img height="200" src="assets/banner.jpg" alt="Maties Sureda Banner"/>
 <h2>📂 Featured Projects </h2>
-<div style="text-align: center;">
-    <a href="https://github.com/matiesmengo/event-driven-demo">
-        <img src="https://img.shields.io/badge/EXPLORE-event--sourcing--cqrs-blue?style=for-the-badge&logo=github&labelColor=24292e"/>
-    </a>
-</div>
+<p align="center">
+  <a href="https://github.com/matiesmengo/event-driven-demo">
+    <img src="https://img.shields.io/badge/EXPLORE-event--sourcing--cqrs-blue?style=for-the-badge&logo=github&labelColor=24292e"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/matiesmengo/spec-driven-design-blackjack">
+    <img src="https://img.shields.io/badge/EXPLORE-spec--driven--blackjack-blue?style=for-the-badge&logo=github&labelColor=24292e"/>
+  </a>
+</p>
 
 <div style="text-align: center;">
     <h2>💻 About Me</h2>
